@@ -1,7 +1,7 @@
 ---
 layout : post  
-title : "ATSE Elevate: Boosting women in STEM" program launch speech
-subtitle : A talk I gave at Parliament House about women in STEM leadership for the launch of the ATSE Elevate scholarship.  
+title : "ATSE Elevate: Boosting women in STEM" program launch speech"
+subtitle : "A talk I gave at Parliament House about women in STEM leadership for the launch of the ATSE Elevate scholarship."  
 ---
 
 # "ATSE Elevate: Boosting women in STEM" program launch speech
