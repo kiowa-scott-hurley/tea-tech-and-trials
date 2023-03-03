@@ -1,20 +1,24 @@
 ---
 layout : post  
-title : ATSE Elevate: Boosting women in STEM program launch Speech
+title : "ATSE Elevate: Boosting women in STEM" program launch speech
 subtitle : A talk I gave at Parliament House about women in STEM leadership for the launch of the ATSE Elevate scholarship.  
 ---
 
-# Background
+# "ATSE Elevate: Boosting women in STEM" program launch speech
+
+## Background
 In November 2022 I was invited to Parliament House as one of the inaugural recipients of the [ATSE ELEVATE leadership scholarship](https://www.atse.org.au/career-pathways/elevate/), and given a few minutes to respond to a big question. I chose to speak about what it's like to be a woman in STEM.
 
 That particular talk was very well received and quite important to me. I've transcribed it below. 
 
-# The Speech
+## The Speech
 
 **Dr Marguerite Evans-Galea AM:**
+
 *“As you continue your leadership journey, how will Elevate help you increase your influence and impact?”*
 
 **Kiowa Scott-Hurley:**
+
 “One day, I am going to apply for a senior leadership role.
 
 I will have the academic qualifications.
