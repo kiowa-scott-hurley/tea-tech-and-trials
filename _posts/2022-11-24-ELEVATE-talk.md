@@ -1,12 +1,10 @@
 ---
 layout : post  
-title : ATSE ELEVATE, "Boosting women in STEM" program launch speech 
-subtitle : A speech I gave at Parliament House in November 2022
+title : ATSE ELEVATE "Boosting women in STEM" program launch speech 
+subtitle : A speech I gave at Parliament House in November 2022 about women in STEM leadership.
 category : 
-tags :  feminism, technology, leadership, womeninstem
+tags :  feminism technology leadership womeninstem
 ---
-
-# "ATSE Elevate: Boosting women in STEM" program launch speech
 
 ## Background
 In November 2022 I was invited to Parliament House as one of the inaugural recipients of the [ATSE ELEVATE leadership scholarship](https://www.atse.org.au/career-pathways/elevate/), and given a few minutes to respond to a big question. I chose to speak about what it's like to be a woman in STEM.
