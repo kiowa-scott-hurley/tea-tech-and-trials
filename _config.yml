@@ -23,12 +23,12 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The Official gh-pages-blog GitHub Page
-url : https://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : Tea, Tech and Trials
+brand : Tea, Tech and Trials
+description : Tea, Tech and Trials
+url : https://kiowa-scott-hurley.github.io/tea-tech-and-trials
+email : kscotthurley@gmail.com
+author: Kiowa Scott-Hurley
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -74,11 +74,13 @@ notice : false
 #     enabled : true
 #     full_url : https://www.gravatar.com/avatar/2f8947394b8acb62e1055f27.png
 #     type : png
+
+# https://icons8.com/icon/102235/tea Tea icon by Icons8
 favicon :
   enabled : true
   local :
     enabled : true
-    partial_url : /img/ghpb-favicon.png
+    partial_url : /img/icons8-tea-pastel-96.png
     type : png
   remote :
     enabled : false
@@ -177,18 +179,17 @@ sections:
     github_projects :
       enabled : true
   social_links :
-    enabled : false
+    enabled : true
   github_projects :
     enabled : false
   external_links :
-    enabled : true
+    enabled : false
   archive :
     enabled : false
   categories :
     enabled : false
   tags :
     enabled : false
-
 
 # The navbar settings determine what menus are displayed on the navbar at the
 # top of the page. Any navbar menu can be enabled by setting the enabled
@@ -220,7 +221,7 @@ navbar :
   github_projects :
     enabled : false
   social_links :
-    enabled : false
+    enabled : true
   external_links :
     enabled : false
 
@@ -282,17 +283,17 @@ social_links :
   follow_name : Me
   links :
     - link :
-      enabled : true
+      enabled : false
       name : Facebook
       font_awesome_icon : icon-facebook
-      url : https://www.facebook.com/
+      url : 
     - link :
-      enabled : true
+      enabled : false
       name : GitHub
       font_awesome_icon : icon-github-alt
       url : https://github.com/
     - link :
-      enabled : true
+      enabled : false
       name: Google+
       font_awesome_icon : icon-google-plus
       url : https://plus.google.com/
@@ -300,14 +301,14 @@ social_links :
       enabled : true
       name : Linkedin
       font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/
+      url : https://www.linkedin.com/in/kiowa-scott-hurley-373a7b190/
     - link :
-      enabled : true
+      enabled : false
       font_awesome_icon : icon-pinterest
       name : Pinterest
       url : http://www.pinterest.com
     - link :
-      enabled : true
+      enabled : false
       name : Twitter
       font_awesome_icon : icon-twitter
       url : https://www.twitter.com/
