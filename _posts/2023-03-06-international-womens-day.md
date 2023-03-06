@@ -54,7 +54,7 @@ So where are the gaps for women? There's a billion horrifying statistics you can
 
 * [Globally, women make up just 19.9% of science and engineering professionals.][5] - less than 1/5th! 
 * [In the U.S., only 28% of women with computing degrees reported working in a computing job a few years after graduating, compared to 57% of men.][6]
-![Retention in Computing, by Gender](/img/IWD/figure-12-AAUW-Retention-in-Computing-2010.png)
+![Retention in Computing, by Gender](img/IWD/figure-12-AAUW-Retention-in-Computing-2010.png)
 * [After about 12 years, 50% of women employed in STEM had exited to other fields][7], compared to 20% of women in non-STEM fields. A majority of these women are from engineering and computing domains.
 * [33.9% of staff at Google globally are women.][8]
 * [37.5% of staff at Facebook globally are women. Of the technical staff, women represent only 24.8%.][9]
@@ -66,7 +66,7 @@ While I studied philosophy at university, one of the things that became apparent
 
 [In the United States in 1984][11], computer science grads were composed of 37% women; [in 2018, that number was less than 20%.][12] 
 
-![% Of Female Undergraduates over time, By Major, Computer Science and Engineering](/img/IWD/comp-sci-majors-80s-to-today.png)
+![% Of Female Undergraduates over time, By Major, Computer Science and Engineering](img/IWD/comp-sci-majors-80s-to-today.png)
 
 Aussie stats aren't any better - [women make up just 1/5th of technology graduates][13].
 
@@ -75,7 +75,7 @@ Aussie stats aren't any better - [women make up just 1/5th of technology graduat
 
 I picked up this lovely book at an op-shop a few years ago!
 
-![Careers for Boys and Girls Cover](/img/IWD/careers-for-boys-and-girls-cover.png)
+![Careers for Boys and Girls Cover](img/IWD/careers-for-boys-and-girls-cover.png)
 
 
 >“Careers for Boys and Girls” 
@@ -94,7 +94,7 @@ I've also tried to minimise images and transcribe as much as possible - for phot
 
 This special section is titled "Careers for Girls" - there are no STEM careers listed under the letter A on the overleaf, so I've highlighted the STEM careers available from B-Z here:
 
-![Careers for Girls](/img/IWD/careers-for-girls-stem-highlights.png)
+![Careers for Girls](img/IWD/careers-for-girls-stem-highlights.png)
 
 Under health and life sciences, we have:
 
@@ -163,7 +163,7 @@ So we've had a look at the ...long list of STEM careers available to women in th
 
 ### The Computer Girls
 
-![The Computer Girls, Cosmopolitan Magazine](/img/IWD/computer-girls-cosmo.jpg)
+![The Computer Girls, Cosmopolitan Magazine](img/IWD/computer-girls-cosmo.jpg)
 
 A 1967 Cosmopolitan Magazine explains how women are ideal for the world of computing. 
 
@@ -180,7 +180,7 @@ Similarly, a 1963 edition of *Datamation* magazine wrote that "women have greate
 
 And don't be fooled into thinking the phenomenon was limited to the U.S. and U.K. - Australia had its own computer women, many working in astronomy. I highly encourage you go and read this ABC Article titled [*The hidden stories of Australia's first women working in computing*][15]. The article features this wonderful image of Lee Hlavaty from the 26th August 1970 Women's Weekly issue which is not on our current timeline, but is too good to not share:
 
-![Career Girl Who Likes Clothes and Computers](/img/IWD/womensweeklyleehlavaty.png)
+![Career Girl Who Likes Clothes and Computers](img/IWD/womensweeklyleehlavaty.png)
 
 Anyway, back to the 40s and 50s. 
 
@@ -211,13 +211,13 @@ This excerpt [from a Guardian article][20] with quotes from Marie Hicks says it 
 
 Oh. Right. So women dominated tech precisely because they could be exploited for cheaper labour, and then forgotton about when they had early retirements to get married and have children. This image of a young decked out in computer tape at a retirement party is relevant here:
 
-![Retirement](/img/IWD/retirement-party.png)
+![Retirement](img/IWD/retirement-party.png)
 
 This was extremely common - here in Australia, married women weren't ALLOWED to work in the public service once they were married, [until the marriage bar was raised in 1966][21]. 
 
 ### What has 16 legs, eight waggly tongues, and costs you at least 40k a year? 
 
-![What has 16 legs, eight waggly tongues, and costs you at least 40k a year?](/img/IWD/waggly-tongues.jpg)
+![What has 16 legs, eight waggly tongues, and costs you at least 40k a year?](img/IWD/waggly-tongues.jpg)
 
 As time passed by through the 1960s, the importance of computer programming became obvious. With the additional respect the field wielded, men began joining the workforce at higher payrates and with promises of career progression. Alongside this increase in respect for computing came the legitimisation of the field with stronger higher education requirements, the formation of professional associations, and the expectation that computing staff would want to climb the career ladder - something women were exempt from. 
 
@@ -237,7 +237,7 @@ The main finding was that programmers shared a strong "disinterest in people".
 
 ### Are YOU the man to command electronic giants?
 
-![Are YOU the man to command electronic giants?](/img/IWD/ibm-are-you-the-man.png)
+![Are YOU the man to command electronic giants?](img/IWD/ibm-are-you-the-man.png)
 
 In 1968 Richard Brandon summarises the average programmer into a stereotype the modern day audience can compeltely understand. As recorded in the 1969 ACM National Conference Proceedings:
 
@@ -255,7 +255,7 @@ They look at your shoes instead of their own.
 Despite these changes, we saw increasing amounts of women doing computing degrees until the mid-80s. So what happened that was worse than the beard-growing and sandal-having personalities identified in the late 60s? 
 
 ### What happened in the 1980s?
-![Apple Introduction](/img/IWD/apple-ad-1.png)
+![Apple Introduction](img/IWD/apple-ad-1.png)
 
 In 1981, IBM launches the personal computer, and shortly thereafter Apple releases the Macintosh - suddenly, people have access to computers in the home! 
 
