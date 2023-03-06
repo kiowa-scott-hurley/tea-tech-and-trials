@@ -1,11 +1,12 @@
 ---
 layout : post  
-title : Women in Tech for IWD
-subtitle : A blog version of a talk I gave for International Women's Day in 2023
+title : Women in Tech Talk for International Women's Day
+subtitle : A blog version of a talk I gave about the history of women in tech for IWD 2023
 category : seminar
 tags :  feminism technology leadership womeninstem 
 ---
-# Presenting on Women in Tech for International Women's Day 
+
+# What's this post?
 
 I was invited to talk to a group of high-school students for International Women's Day at [Casey Tech School][1] in 2023. I invite you to check out the [Google Slides][2] I presented for this event if you're interested, but all content will be covered below in a similar format. 
 
