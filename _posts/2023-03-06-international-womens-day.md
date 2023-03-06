@@ -63,7 +63,7 @@ So where are the gaps for women? There's a billion horrifying statistics you can
 These are some sobering statistics - but we're getting better, right? There's a variety of encouraging programs for women in STEM nowadays! 
 
 ### Progress is inevitable
-In my philosophy classes at university, the idea that more modern societies were more advanced and progress was inevitable, was pervasive. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 1980s than they do today!
+In my philosophy classes at university, it see,ed a given that contemporary societies were more advanced and progress was inevitable. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 1980s than they do today!
 
 [In the United States in 1984][11], computer science grads were composed of 37% women; [in 2018, that number was less than 20%.][12] 
 
@@ -156,16 +156,17 @@ Zooming into these professions...
 
 Make no mistake - engineering was for men. The text always refers to the young engineer with male pronouns and it doesn't have a cute little "opportunities for women" section like other fields do. 
 
-What it does have is a section for factory work where women are subject to some unique rules: 
+It *does* have a section for factory work where women are subject to some unique rules: 
 
 * "A child is a boy under the age of 14 years, or a girl under the age of 15." 
 * "No female of any age shall be employed in any lead process."
-* "No girl under 18 may be emploted in melting or annealing glass."
-* "No girl under 16 may be employee in the making or finishing of bricks [...] or in salt works." 
+* "No girl under 18 may be employed in melting or annealing glass."
+* "No girl under 16 may be employed in the making or finishing of bricks [...] or in salt works." 
 * "No male under the age of 18, and no female of any age, may be employed in wet spinning unless sufficient means for the protection of workers is provided."
 * "No girl under the age of 18 years is permitted to carry or lift a weight over 25lbs."
 
 **Code compilers** 
+
 Wait, compilers didn't even exist in 1936! 
 
 After a slew of googling, I've come to the conclusion this was likely a clerical job around coding paperwork properly. Women must have been our earliest manual database administrators. If you know more about what this could be referring to, or have better Google-Fu than me, please let me know.
@@ -241,7 +242,7 @@ As part of this legitimisation of the field came career aptitude tests - the Sys
 
 The main finding was that programmers shared a strong "disinterest in people". Oof, am I really that much of a misanthrope?
 
-[A Wall Street Journal article][24] the impact this status change had on the epxert women already working in the field:
+[A Wall Street Journal article][24] highlights the impact this status change had on the expert women already working in the field:
 
 > Memos from the U.K.’s government archives reveal that, in 1959, an unnamed British female computer programmer was given an assignment to train two men. 
 >
@@ -267,7 +268,7 @@ How can you tell if a programmer is extroverted?
 
 They look at your shoes instead of their own. (Badum-Tss!)
 
-Despite these changes, we saw increasing amounts of women doing computing degrees until the mid-80s. And so the mystery remains: what happened in the 80s that was so much worse than beard-growing, sandal-having, people hating personalities? 
+Despite these changes, we saw increasing amounts of women doing computing degrees until the mid-80s. And so the mystery remains: what happened in the 80s that was so much worse than beard-growing, sandal-having, people-hating personalities? 
 
 ### What happened in the 1980s?
 ![Apple Introduction](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/apple-ad-1.png)
@@ -276,7 +277,7 @@ In 1981, IBM launches the personal computer, and shortly thereafter Apple releas
 
 Marketing in the era is often aimed at boys and men, showcasing these PCs as toys or hobby machines, aligned with the masculine arcade culture of the period. [Jane Margolis did a study in the 1990s][25] which showed that families were more likely to buy computers for their boys, even if the girls were interested in them. 
 
-Prior to the release of the PC, computer science students all usually started from the position of having no experience with computers. Suddenly, some of the students had prior knowledge - and most of them were boys.
+Prior to the release of the PC, computer science students usually started from the position of having no experience with computers. Suddenly, some of the students had prior knowledge - and most of them were boys. I have to wonder how many young boys today are building their own PCs compared to girls. 
 
 [Patricia Ordóñez][26] recounts her experience as a woman heading into computer science in the 80s, realising she was already "behind" her male colleagues.
 
@@ -318,7 +319,7 @@ Smart women, scientists, researchers, technologists, have known the solutions to
 * The confidence gap which appears in girls in maths classes as early as grade 4,
 * The fact that women excelling in masculine fields are perceived as either competent or warm, but rarely both,
 * The inequitable funding for women's research and enterprise,
-* The benefits of work from home and other practices which other women implemented IN THE 1960s (Facebook's diversity report, linked earlier, highlights most of its remote roles were filled by women.)
+* The benefits of work from home and other flexible working practices which women implemented IN THE 1960s! (Facebook's diversity report, linked earlier, highlights most of its remote roles were filled by women.)
 * The many embedded biases in AI systems...
 
 And the list goes on. 
