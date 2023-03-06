@@ -75,8 +75,10 @@ Aussie stats aren't any better - [women make up just 1/5th of technology graduat
 
 I picked up this lovely book at an op-shop a few years ago!
 
-[Careers for Boys and Girls Cover](https://imgur.com/a/emkGWRh)
-[Careers for Boys and Girls Cover]([./images/IWD/careers-for-boys-and-girls-cover.png)]
+![Careers for Boys and Girls Cover](https://imgur.com/a/emkGWRh)
+![Careers for Boys and Girls Cover]([./images/IWD/careers-for-boys-and-girls-cover.png)]
+
+![Careers for Boys and Girls Cover](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/careers-for-boys-and-girls-cover.png)
 
 
 >“Careers for Boys and Girls” 
