@@ -6,7 +6,7 @@ category : seminar
 tags :  feminism technology leadership womeninstem 
 ---
 
-# What's this post?
+**What's this post?**
 
 I was invited to talk to a group of high-school students for International Women's Day at [Casey Tech School][1] in 2023. I invite you to check out the [Google Slides][2] I presented for this event if you're interested, but all content will be covered below in a similar format. 
 
@@ -22,15 +22,15 @@ I was invited to talk to a group of high-school students for International Women
 > Computer Pioneer
 
 ## What is International Women's Day? 
-[International Women's Day (IWD)][3] falls on March 8th in the United Nations (UN) calendar. The day is committed to advancing the outcomes of women globally, across a variety of challenges, including but not limited to:
+[International Women's Day (IWD)][3] falls on March 8th in the United Nations (UN) calendar. The day is committed to advancing the outcomes of women across a variety of challenges, including but not limited to:
 
 * Economic participation,
 * Academic participation,
 * Reproductive rights,
-* Domestic Violence and violence against women,
+* Domestic violence and violence against women,
 * Equality at work and at home.
 
-The 2023 theme is *"Cracking the Code, Innovation for a Gender equal Future"*, focussing on how we use STEM (Science, Technology, Engineering & Mathematics) to advance women's outcomes, and how we bridge the digital gap for women - [women in low and middle income countries are on average 18% less likely to have a smartphone than men, and 7% less likely to have a mobile compared to men.][4]
+The 2023 theme is *"Cracking the Code, Innovation for a Gender equal Future"*, focussing on how we use STEM (Science, Technology, Engineering & Mathematics) to advance women's outcomes, and how we bridge the digital gap for women. For example, [women in low and middle income countries are on average 18% less likely to have a smartphone than men, and 7% less likely to have a mobile compared to men.][4]
 
 ### Intersectionality 
 It should be noted that this blog will focus on women in STEM in the U.S., U.K., and Australia, but it doesn't at all diminish the experiences of other marginalised groups in tech, including:
@@ -52,7 +52,7 @@ I'd also comment that many of the challenges women face within STEM extend beyon
 
 So where are the gaps for women? There's a billion horrifying statistics you can look at, but here are a few that jumped out to me as interesting.
 
-* [Globally, women make up just 19.9% of science and engineering professionals.][5] - less than 1/5th! 
+* [Globally, women make up just 19.9% of science and engineering professionals][5] - less than 1/5th! 
 * [In the U.S., only 28% of women with computing degrees reported working in a computing job a few years after graduating, compared to 57% of men.][6]
 ![Retention in Computing, by Gender](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/figure-12-AAUW-Retention-in-Computing-2010.png)
 * [After about 12 years, 50% of women employed in STEM had exited to other fields][7], compared to 20% of women in non-STEM fields. A majority of these women are from engineering and computing domains.
@@ -60,17 +60,21 @@ So where are the gaps for women? There's a billion horrifying statistics you can
 * [37.5% of staff at Facebook globally are women. Of the technical staff, women represent only 24.8%.][9]
 * [According to a 2019 global report][10], women received 54% of all degrees; the share of humanities, arts and social sciences degrees undertaken by women was 54%, while STEM was undertaken by a share of only 30% women. 
 
-These are some sobering statistics - but we're getting better, right? There's a variety of encouraging programs for women in STEM
+These are some sobering statistics - but we're getting better, right? There's a variety of encouraging programs for women in STEM nowadays! 
 
-While I studied philosophy at university, one of the things that became apparent was that every author assumed their period in time was surely the best - that they were more advanced than any society had ever been before, and that progress was inevitable. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 80s than they do today!
+### Progress is inevitable
+In my philosophy classes at university, the idea that more modern societies were more advanced and progress was inevitable, was pervasive. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 1980s than they do today!
 
 [In the United States in 1984][11], computer science grads were composed of 37% women; [in 2018, that number was less than 20%.][12] 
 
 ![% Of Female Undergraduates over time, By Major, Computer Science and Engineering](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/comp-sci-majors-80s-to-today.png)
 
-Aussie stats aren't any better - [women make up just 1/5th of technology graduates][13].
+Aussie stats aren't any better - [women make up just 1/5th of technology graduates][13]. Ouch. 
 
 ## Herstory 
+
+"Wait, so women were once more involved in tech?" I hear you exclaim - I know, I know. Let's take a walk through the past and see how we got here.
+
 ### Careers for Boys and Girls - Women in STEM in 1930s Australia 
 
 I picked up this lovely book at an op-shop a few years ago!
@@ -88,9 +92,11 @@ I picked up this lovely book at an op-shop a few years ago!
 >
 >1936
 
-It details the variety of careers available in Victoria Australia in 1936, and provides advice on training and education, writing cover letters, and what the workforce is like. Many of the jobs within have special sections or advice for women entering the workforce. I've tried to focus on the STEM portions of the book here, though there is a gnarly section detailing the different pay grades for male and female teachers. 
+It details the variety of careers available in Victoria, Australia in 1936, and provides advice on training and education, writing cover letters, and what the workforce is like. Many of the jobs within have special sections or advice for women entering the workforce. I've tried to focus on the STEM portions of the book here, though there is a gnarly section detailing the different pay grades for male and female teachers which I must regrettably omit as a result. 
 
 I've also tried to minimise images and transcribe as much as possible - for photos of these sections, refer to the [Google Slide deck][1]. 
+
+#### Careers for Girls 
 
 This special section is titled "Careers for Girls" - there are no STEM careers listed under the letter A on the overleaf, so I've highlighted the STEM careers available from B-Z here:
 
@@ -112,6 +118,8 @@ Let's zoom into some of the listings for these professions later in the text.
 
 > Throughout the course there is no sex discrimination, women being admitted to the lectures and hospital work on equality with men. An increasing number of women is taking up this profession, and, with the decay of the prejudice against women doctors, there are opportunities for them in many fields. 
 
+Oh good, discrimination against female doctors was trending down! 
+
 **Openings for women - optometry**
 
 > It is estimated that in normal years there should be vacancies for about 50 boys and 10 girls annually. 
@@ -120,7 +128,7 @@ Let's zoom into some of the listings for these professions later in the text.
 > 
 > During the last few years an increasing number of women have entered the profession, which appeals to girls. Conditions of training apply equally to men and women; the number of openings for women in this field is, however, limited. 
 
-Huh - weird. 
+Oh, okay, arbitrary hiring limits. Sure...
 
 **Openings for women - Veterinary Surgery**
 > In 1934, there were almost 100 students in this course at the Sydney University, including 6 women. The opportunity for women practitioners in veterinary surgery is thought to lie in the treatment of the smaller animals, rather than in general country practice, where prejudice and certain practical difficulties may have to be encountered.
@@ -129,20 +137,23 @@ Huh - weird.
 >
 > It is not easy to indicate the emoluments for women, in view of the pioneer stage of the profession, as far as they are concerned. 
 
-Interestingly, in Australia in 2016, [80% of veterinary science graduates and 60% of practitioners were female.][14] 
+We turned this one around! Interestingly, in Australia in 2016, [80% of veterinary science graduates and 60% of practitioners in Australia were female.][14] 
 
 Moving out of the life sciences, we also see some other STEM careers highlighted for women - namely:
 
 * Chemistry,
 * Engineering,
-* Code compiler.
+* Code compiler?!
 
 Zooming into these professions...
 
-** Opportunities for Women - Chemistry**
-> Women are admitted on an equality with men to the professional courses of training, but openings for women in this field are usually restricted to laboratory work, for which they are particularly fitted."
+**Opportunities for Women - Chemistry**
+> Women are admitted on an equality with men to the professional courses of training, but openings for women in this field are usually restricted to laboratory work, for which they are particularly fitted.
+
+...what is that supposed to mean??? 
 
 **Engineering**
+
 Make no mistake - engineering was for men. The text always refers to the young engineer with male pronouns and it doesn't have a cute little "opportunities for women" section like other fields do. 
 
 What it does have is a section for factory work where women are subject to some unique rules: 
@@ -154,12 +165,12 @@ What it does have is a section for factory work where women are subject to some 
 * "No male under the age of 18, and no female of any age, may be employed in wet spinning unless sufficient means for the protection of workers is provided."
 * "No girl under the age of 18 years is permitted to carry or lift a weight over 25lbs."
 
-** Code compilers ** 
+**Code compilers** 
 Wait, compilers didn't even exist in 1936! 
 
-After a slew of googling, I've come to the conclusion this was likely a clerical job around coding paperwork properly. Women must have been our earliest manual database administrators.
+After a slew of googling, I've come to the conclusion this was likely a clerical job around coding paperwork properly. Women must have been our earliest manual database administrators. If you know more about what this could be referring to, or have better Google-Fu than me, please let me know.
 
-So we've had a look at the ...long list of STEM careers available to women in the 1930s Australia. Let's zoom ahead to the 1940s and 1950s and see how women started to dominate jobs as actual code compilers. 
+So we've had a look at the ...long list of STEM careers available to women in the 1930s in Australia. Let's zoom ahead to the 1940s and 1950s and see how women started to dominate jobs as actual code compilers. 
 
 ### The Computer Girls
 
@@ -170,15 +181,16 @@ A 1967 Cosmopolitan Magazine explains how women are ideal for the world of compu
 > Twenty years ago a girl could be a secretary, a school teacher . . . maybe even a librarian, a social worker, or a nurse. If she was really ambitious, she could go into the professions and compete with men, usually working harder and longer to earn less pay for the same jobs.
 >
 > [...]
+>
 > And if it doesn't sounds like woman's work - well, it just is.
 >
 > [...]
 >
 > It's just like planning a dinner," explains Dr. Grace Hopper [...] " You have to plan ahead and schedule everything so it's ready when you need it. Programming requires patience and the ability to handle detail. Women are 'naturals' at computer programming."
 
-Similarly, a 1963 edition of *Datamation* magazine wrote that "women have greater patience than men and are better at details, two prerequisites for the allegedly successful programmer."][18] and that "women are less aggressive and more content in one position."
+Similarly, a 1963 edition of *Datamation* magazine wrote that ["women have greater patience than men and are better at details, two prerequisites for the allegedly successful programmer."][18] and that "women are less aggressive and more content in one position."
 
-And don't be fooled into thinking the phenomenon was limited to the U.S. and U.K. - Australia had its own computer women, many working in astronomy. I highly encourage you go and read this ABC Article titled [*The hidden stories of Australia's first women working in computing*][15]. The article features this wonderful image of Lee Hlavaty from the 26th August 1970 Women's Weekly issue which is not on our current timeline, but is too good to not share:
+And don't be fooled into thinking the phenomenon was limited to the U.S. and U.K. - Australia had its own computer women, many working in astronomy. I highly encourage you go and read this ABC Article titled [*The hidden stories of Australia's first women working in computing*][15]. The article features this wonderful image of Lee Hlavaty from the 26th August 1970 Women's Weekly issue. I know the 1970s is skipping ahead, but it is too good to not share here:
 
 ![Career Girl Who Likes Clothes and Computers](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/womensweeklyleehlavaty.png)
 
@@ -209,37 +221,39 @@ This excerpt [from a Guardian article][20] with quotes from Marie Hicks says it 
 >
 > Managers perceived women to be ideal for the computing industry because they didn’t think they needed to be offered any sort of career ladder, explains Hicks. “Instead the expectation was that a woman’s career would be kept short because of marriage and children – which meant a workforce that didn’t get frustrated or demand promotions and higher wages.”
 
-Oh. Right. So women dominated tech precisely because they could be exploited for cheaper labour, and then forgotton about when they had early retirements to get married and have children. This image of a young decked out in computer tape at a retirement party is relevant here:
+Oh. Right. So women dominated tech precisely because they could be exploited for cheaper labour, and then forgotten when they got married, had children, and inevitably retired. This image of a young lady decked out in computer tape at a retirement party is relevant here:
 
 ![Retirement](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/retirement-party.png)
 
-This was extremely common - here in Australia, married women weren't ALLOWED to work in the public service once they were married, [until the marriage bar was raised in 1966][21]. 
+This super early retirement was extremely common, with laws prohibiting pregnant women from working in many countries. As an example, here in Australia, married women weren't allowed to work in the public service once they were married, [until the marriage bar was raised in 1966][21]. The initial attempt to remove the marriage bar failed, citing reasons of men being too tired to work effectively as they picked up more domestic labour. 
 
 ### What has 16 legs, eight waggly tongues, and costs you at least 40k a year? 
 
 ![What has 16 legs, eight waggly tongues, and costs you at least 40k a year?](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/waggly-tongues.jpg)
 
-As time passed by through the 1960s, the importance of computer programming became obvious. With the additional respect the field wielded, men began joining the workforce at higher payrates and with promises of career progression. Alongside this increase in respect for computing came the legitimisation of the field with stronger higher education requirements, the formation of professional associations, and the expectation that computing staff would want to climb the career ladder - something women were exempt from. 
+Moving through the 1960s, the importance of computer programming became obvious. With the additional respect the field wielded, men began joining the workforce at higher payrates and with promises of career progression. Alongside this increase in respect for computing came the legitimisation of the field with stronger higher education requirements, the formation of professional associations, and the expectation that computing staff would want to climb the career ladder - something women were exempt from. 
 
-[Historian Nathan Ensmenger, author of "The Computer Boys Take Over", puts it succinctly]:
+[Historian Nathan Ensmenger, author of "The Computer Boys Take Over", puts it succinctly][22]:
 
 > An activity originally intended to be performed by low-status, clerical – and more often than not, female – computer programming was gradually and deliberately transformed into a high-status, scientific, and masculine discipline.
 
 As part of this legitimisation of the field came career aptitude tests - the System Development Corporation (SDC) had two psychologists, William Cannon and Dallis Perry, [create a vocational interest scale][23]. They interviewed 1400 engineers (1200 of which  were men) to generate the test. As you might imagine, women didn't perform especially well on this assessment.
 
-The main finding was that programmers shared a strong "disinterest in people". 
+The main finding was that programmers shared a strong "disinterest in people". Oof, am I really that much of a misanthrope?
 
-[A Wall Street Journal article][24] demonstrates how women were pushed out of the field in the 60s:
+[A Wall Street Journal article][24] the impact this status change had on the epxert women already working in the field:
 
 > Memos from the U.K.’s government archives reveal that, in 1959, an unnamed British female computer programmer was given an assignment to train two men. 
 >
 > The memos said the woman had “a good brain and a special flair” for working with computers. Nevertheless, a year later the men became her managers. Since she was a different class of government worker, she had no chance of ever rising to their pay grade.
 
+I know several modern day women in tech would scoff at this historic memo, citing that nothing had really changed since then. I'm sure we could find an equivalent Twitter story. 
+
 ### Are YOU the man to command electronic giants?
 
 ![Are YOU the man to command electronic giants?](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/ibm-are-you-the-man.png)
 
-In 1968 Richard Brandon summarises the average programmer into a stereotype the modern day audience can compeltely understand. As recorded in the 1969 ACM National Conference Proceedings:
+In 1968 Richard Brandon summarises the average programmer into a stereotype that the modern day audience can completely understand. As recorded in the 1969 ACM National Conference Proceedings:
 
 > …the personality traits of the average programmer almost universally reflect certain negative characteristics. The average programmer is excessively independent-sometimes to the point of mild paranoia.
 >
@@ -250,9 +264,10 @@ Richard goes on to explain that these negative traits are directly correlated to
 > Many people with the logical aptitude to pass numeric or spatial relations tests do not have the basic ability to become part of an effective and productive programming team. 
 
 How can you tell if a programmer is extroverted?
-They look at your shoes instead of their own. 
 
-Despite these changes, we saw increasing amounts of women doing computing degrees until the mid-80s. So what happened that was worse than the beard-growing and sandal-having personalities identified in the late 60s? 
+They look at your shoes instead of their own. (Badum-Tss!)
+
+Despite these changes, we saw increasing amounts of women doing computing degrees until the mid-80s. And so the mystery remains: what happened in the 80s that was so much worse than beard-growing, sandal-having, people hating personalities? 
 
 ### What happened in the 1980s?
 ![Apple Introduction](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/IWD/apple-ad-1.png)
@@ -271,7 +286,7 @@ Patricia eventually moved to majoring in foreign languages.
 
 There are many theories as to the downturn in women in tech which occured in the 80s, but many of them turn to these massive cultural (Revenge of the Nerds, anyone?) and academic changes, transforming computing into a very male space. 
 
-## Innovations 
+## Back to the theme - ✨Innovations✨
 
 > A lot of the studies have focused on fixing women—fixing their confidence, fixing their interests. We did not find that any of those factors influenced women engineers’ persistence decisions at all, which is why we are saying we really need to be focusing on the environment. 
 >
@@ -284,9 +299,31 @@ Right - so we've seen that there aren't enough women in tech, that the numbers a
 I did a lot of reading on this topic before giving this talk - and I simply don't believe the problem here is the lack of technology, or lack of studies on women's participation and retention in STEM, at least not in developed nations. Let me tell you about two innovations to demonstrate my point.
 
 ### The Work-From-Home women - U.K.
-In 1960s England as women were pushed out of technology, [Stephanie Shirley dared to be different][27], starting her own company: Freelance Programmers. In short, she gathered a workforce of mostly women who worked from home - a rarity in this time. She also pioneered the ability for career-re-entry and job sharing arrangements, offering an attractive workplace for other women like her - 297 out of her first 300 staff were women. 
+In 1960s England as women were pushed out of technology, [Stephanie Shirley dared to be different][27], starting her own company: *Freelance Programmers*. In short, she gathered a workforce of mostly women who worked from home - a rarity in this time. She also pioneered the ability for career-re-entry and job sharing arrangements, offering an attractive workplace for other women like her. 297 out of her first 300 staff were women. 
 
 Much of the programming of this era was done on paper, with limited need for actual computer time, so women were able to work from home and balance their domestic duties and childcare. After an initially challenging sell, Shirley started going as "Steve" on business communications, a move which worked especially well for her. 
+
+### The Work-From-Home Women - U.S.
+Similarly, across the pond [Elsie Shutt started Computations Incorporated in 1957][28], as she was unable to remain employed by Honeywell after falling pregnant. She failed to negotiate working part-time or subcontracting, and so incorporated with a few of her colleagues in a similar position. 
+
+Elsie actively hired women who were pregnant or had caring responsibilities, and even had a training program for women who wanted to get involved with computing while they worked from home, getting them job-ready for once their children were grown up. 
+
+## Conclusion
+
+And so what do I take from those two examples? 
+
+Smart women, scientists, researchers, technologists, have known the solutions to many of the drivers of inequity for a long time. There exists swathes of papers detailing issues including:
+
+* The unequal domestic household burden women bear,
+* The confidence gap which appears in girls in maths classes as early as grade 4,
+* The fact that women excelling in masculine fields are perceived as either competent or warm, but rarely both,
+* The inequitable funding for women's research and enterprise,
+* The benefits of work from home and other practices which other women implemented IN THE 1960s (Facebook's diversity report, linked earlier, highlights most of its remote roles were filled by women.)
+* The many embedded biases in AI systems...
+
+And the list goes on. 
+
+Technology identified the problems. A fundamentally inequitable system persisted them. 
 
 
 [1]: <https://www.caseytechschool.vic.edu.au/pages/home.aspx> "Casey Tech School"
@@ -316,3 +353,5 @@ Much of the programming of this era was done on paper, with limited need for act
 [25]: <https://www.aauw.org/app/uploads/2020/03/Solving-the-Equation-report-nsa.pdf> "The American Association of University Women (AAUW), Solving the Equation, 2020"
 [26]: <https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding> "When Women Stopped Coding, NPR"
 [27]: <https://www.steveshirley.com/story/> "The Steve Shirley Story"
+[28]: <https://ethw.org/Oral-History:Elsie_Shutt> "Oral-History:Elsie Shutt, ETHW"
+
