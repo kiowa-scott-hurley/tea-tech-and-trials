@@ -5,6 +5,7 @@ subtitle : A blog version of a talk I gave for International Women's Day in 2023
 category : seminar
 tags :  feminism technology leadership womeninstem 
 ---
+# Presenting on Women in Tech for International Women's Day 
 
 I was invited to talk to a group of high-school students for International Women's Day at [Casey Tech School][1] in 2023. I invite you to check out the [Google Slides][2] I presented for this event if you're interested, but all content will be covered below in a similar format. 
 
