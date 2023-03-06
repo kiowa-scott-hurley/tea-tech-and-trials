@@ -75,7 +75,9 @@ Aussie stats aren't any better - [women make up just 1/5th of technology graduat
 
 I picked up this lovely book at an op-shop a few years ago!
 
-![Careers for Boys and Girls Cover](./images/IWD/careers-for-boys-and-girls-cover.png)
+<img src="./images/IWD/careers-for-boys-and-girls-cover.png" alt="Careers for Boys and Girls Cover">
+
+[Careers for Boys and Girls Cover](./images/IWD/careers-for-boys-and-girls-cover.png)
 
 
 >“Careers for Boys and Girls” 
