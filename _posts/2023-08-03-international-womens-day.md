@@ -19,9 +19,6 @@ I was invited to talk to a group of high-school students for International Women
 > Admiral Grace Murray Hopper, 
 > Computer Pioneer
 
-# TABLE OF CONTENTS HERE
-# EXPAND STEM
-
 ## What is International Women's Day? 
 [International Women's Day (IWD)][3] falls on March 8th in the United Nations (UN) calendar. The day is committed to advancing the outcomes of women globally, across a variety of challenges, including but not limited to:
 
@@ -31,7 +28,7 @@ I was invited to talk to a group of high-school students for International Women
 * Domestic Violence and violence against women,
 * Equality at work and at home.
 
-The 2023 theme is *"Cracking the Code, Innovation for a Gender equal Future"*, focussing on how we use STEM to advance women's outcomes, and how we bridge the digital gap for women - [women in low and middle income countries are on average 18% less likely to have a smartphone than men, and 7% less likely to have a mobile compared to men.][4]
+The 2023 theme is *"Cracking the Code, Innovation for a Gender equal Future"*, focussing on how we use STEM (Science, Technology, Engineering & Mathematics) to advance women's outcomes, and how we bridge the digital gap for women - [women in low and middle income countries are on average 18% less likely to have a smartphone than men, and 7% less likely to have a mobile compared to men.][4]
 
 ### Intersectionality 
 It should be noted that this blog will focus on women in STEM in the U.S., U.K., and Australia, but it doesn't at all diminish the experiences of other marginalised groups in tech, including:
