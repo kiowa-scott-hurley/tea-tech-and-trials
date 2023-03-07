@@ -63,7 +63,7 @@ So where are the gaps for women? There's a billion horrifying statistics you can
 These are some sobering statistics - but we're getting better, right? There's a variety of encouraging programs for women in STEM nowadays! 
 
 ### Progress is inevitable
-In my philosophy classes at university, it see,ed a given that contemporary societies were more advanced and progress was inevitable. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 1980s than they do today!
+In my philosophy classes at university, it seemed a given that contemporary societies were more advanced and progress was inevitable. Unfortunately, this simply isn't always the case - while women's participation in STEM subjects and other male dominated fields has increased over time, computational and engineering degrees are left in the lurch. More women graduated with computing degrees in the 1980s than they do today!
 
 [In the United States in 1984][11], computer science grads were composed of 37% women; [in 2018, that number was less than 20%.][12] 
 
