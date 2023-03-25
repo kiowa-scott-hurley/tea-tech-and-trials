@@ -30,7 +30,7 @@ Your task? Train an algorithm to recognise the numbers correctly. This one is fu
 
 One day while reading a paper, I found something called [Fashion-MNIST][7] - instead of handwritten digits, we had a dataset with photos of different categories of clothes - jackets, boots, skirts, etc. It was touted as the new MNIST - slightly larger and slightly more difficult, to match the rapidly advancing capabilities of ML.   
 
-[![Image of fashion-MNIST](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/penguins/fashion-mnist.png)](https://www.tensorflow.org/datasets/catalog/fashion_mnist) 
+[![Image of fashion-MNIST](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/penguins/fashion_mnist.png)](https://www.tensorflow.org/datasets/catalog/fashion_mnist) 
 
 I was thrilled by the idea of an "upgraded" datset consisting entirely of something as random as clothing. I felt like a real academic, discovering new data in papers. I was so fond of this cool new dataset that I used it to implemenmt encrypted logistic regression in C++. I delighted in introducing the dataset in the paper I worked on. 
 
