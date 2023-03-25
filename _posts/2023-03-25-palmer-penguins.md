@@ -1,7 +1,7 @@
 ---
 layout : post  
 title : The Palmer Penguins Dataset   
-category : A brief blog about my new favourite toy dataset
+subtitle : A brief blog about my new favourite toy dataset
 tags :  ml python data 
 ---
 
