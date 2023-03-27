@@ -54,8 +54,6 @@ And so this blog post is a short callout to the Palmer Penguin dataset and the j
 
 ![Image of penguin in top hat captioned "Dress up for data science"](https://kiowa-scott-hurley.github.io/tea-tech-and-trials/img/penguins/penguin-data-science.png)
 
-And so this post is a besotted call-out to the Palmer Penguin dataset it.
-
 [1]: <https://seaborn.pydata.org/> "Seaborn: statistical data visualisation. "
 [2]: <https://archive.ics.uci.edu/ml/datasets/iris> "UCI ML Repository, Iris Dataset"
 [3]: <https://www.cs.toronto.edu/~kriz/cifar.html> "CIFAR 10 dataset"
