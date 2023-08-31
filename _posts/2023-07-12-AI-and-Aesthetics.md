@@ -173,6 +173,13 @@ And as a final congratulations for sitting through what has essentially been a r
 * Youtube Playlist: https://youtube.com/playlist?list=PL7SrOiqvqNyZvQ3lD79nYZo_7pix0F7m6
 * Spotify Playlist: https://open.spotify.com/playlist/7KmNAwGfIv9HuSWFGZEHYq?si=613d2526af2f4e91
 
+<script src="https://utteranc.es/client.js"
+        repo="kiowa.scott-hurley/tea-tech-and-trials"
+        issue-term="pathname"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 [1]: <https://museumsvictoria.com.au/future-forums/ai-the-next-generation/> "Museums Victoria: AI The Next Generation."
 [2]: <https://www.linkedin.com/in/linda-mciver-a69570/> "Linda McIver LinkedIn."
@@ -205,11 +212,3 @@ And as a final congratulations for sitting through what has essentially been a r
 [29]: <https://www.forbes.com/sites/robsalkowitz/2022/09/16/ai-is-coming-for-commercial-art-jobs-can-it-be-stopped/>  "AI Is Coming For Commercial Art Jobs. Can It Be Stopped?"
 [30]: <https://wiki.archiveteam.org/index.php/Microsoft_Clip_Art> "Clip Art" 
 [31]: <https://faculty.fiu.edu/~harrisk/Notes/Aesthetics/Apollonian-%20Dionysian%20Dichotomy.htm> "Apollonian vs Dionysian" 
-
-<script src="https://utteranc.es/client.js"
-        repo="kiowa.scott-hurley/tea-tech-and-trials"
-        issue-term="pathname"
-        theme="boxy-light"
-        crossorigin="anonymous"
-        async>
-</script>
