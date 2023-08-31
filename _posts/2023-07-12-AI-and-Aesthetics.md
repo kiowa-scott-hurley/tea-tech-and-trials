@@ -205,3 +205,11 @@ And as a final congratulations for sitting through what has essentially been a r
 [29]: <https://www.forbes.com/sites/robsalkowitz/2022/09/16/ai-is-coming-for-commercial-art-jobs-can-it-be-stopped/>  "AI Is Coming For Commercial Art Jobs. Can It Be Stopped?"
 [30]: <https://wiki.archiveteam.org/index.php/Microsoft_Clip_Art> "Clip Art" 
 [31]: <https://faculty.fiu.edu/~harrisk/Notes/Aesthetics/Apollonian-%20Dionysian%20Dichotomy.htm> "Apollonian vs Dionysian" 
+
+<script src="https://utteranc.es/client.js"
+        repo="kiowa.scott-hurley/tea-tech-and-trials"
+        issue-term="pathname"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
