@@ -553,6 +553,11 @@ disqus :
   shortname : myshortname
   show_comment_count : true
 
+html:
+  comments:
+    utterances:
+      repo: "kiowa.scott-hurley/tea-tech-and-trials"
+
 
 # This section determines whether to use Google Analytics to track site
 # visitors and statistics. In the future, other analytic engines will most
