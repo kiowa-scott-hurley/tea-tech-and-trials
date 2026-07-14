@@ -191,9 +191,8 @@ This triggered some of the strongest responses. I've copied almost all of them h
 | That's super cool! Why do you track that specifically? Is there anything else that you track in a similar way?                                                                                                                                     |
 | That is the best thing I've heard on here! Does it just track which makeup you use or do you also track how much you use                                                                                                                           |
 | Ok the database is up there, I don't think I've ever heard of that before.                                                                                                                                                                         |
-<br>
 
-Special mention for replies I really didn't like:<br> 
+Special mention for replies I really didn't like: 
 
 | Response samples: bad                          |
 | ---------------------------------------------- |
@@ -285,6 +284,8 @@ Everyone seemed to appreciate the honesty even if they were a bit confused or...
 It was honestly weird to reduce people down to their data this way - but when you have 160 people attempting to talk you in a 2 day span, and your goal is actually going on dates with people face to face, there's a filter mechanism happening regardless.
 
 ## The dating highscore board
+It's not a competition but...
+
 | Emoji | # of Dates | Comments |
 |:-----:|-----------:|----------|
 | 🤸 | 1 | Really lovely (clever, lots of cool hobbies, originally planned a second date), but I liked other people by the time we met. |
