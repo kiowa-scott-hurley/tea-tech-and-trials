@@ -43,3 +43,8 @@
     background-color: #e8d8ff; /* light purple */
     font-weight: bold;
 }
+
+/* Images */
+.ghpb-post img {
+    border: 1px solid black;
+}
