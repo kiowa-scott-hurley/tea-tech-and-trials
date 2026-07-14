@@ -207,7 +207,7 @@ In the "Notes" section I captured my unfiltered thoughts. As I worked out what t
 | very funny reply                                                                                                            |
 | The pringles man was cremated into a can???                                                                                 |
 | hot but so boring<br>*Note: this profile got one of the three 8/10 hotness scores, and a 1/10 profile score. I did not match.* |
-| Unclear if they’re cute and bad at selfies or not cute                                                                      |
+| Unclear if they're cute and bad at selfies or not cute                                                                      |
 | My type. I like em with eyeliner on. I want to see more.<br>*Note: this is the only 8/10 hotness I matched with.*              |
 | Mouse dissections??? Okay girl go off                                                                                       |
 
@@ -312,7 +312,7 @@ This is not a comprehensive list, but I did learn some things about what I'm loo
 * Has a few hobbies 
     * and is excited to talk about them! 
     * No seriously, I want to learn new things from the people I like.
-* Has a social life that meets their needs, or is activley working on it.
+* Has a social life that meets their needs, or is actively working on it.
     * This feels ridiculous to write down but...
     * I'm finding a lot of men especially in my age range are outgrowing their friends or don't have friends, and are feeling lonely as a result. 
     * This isn't about them having lots of friends - I have a few close friends but that interaction mode meets my social needs. Dating is a bonus, not a fix. 
