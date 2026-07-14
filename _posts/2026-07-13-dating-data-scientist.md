@@ -26,7 +26,7 @@ tags :  data technology personal
     * [The dating highscore board](#the-dating-highscore-board)
 * [Information Sharing and Management (gossiping with friends)](#information-sharing-and-management-gossiping-with-friends)
 * [What else did I learn?](#what-else-did-i-learn)
-
+<br> 
 # Why am I subjecting myself to online dating?
 I met my ex using Tinder for the first time in 2017. I deleted it after 3 days, having met them and immediately fallen madly in love. After 7-and-a-half years with them, we split last year. A few months ago I gave a cute chatty guy at a gig my number... and he never texted. Drats. 
 
@@ -78,6 +78,8 @@ Each sample (uh, person) was a row in my spreadsheet, with the following attribu
 | Hotness                      | Integer (0-10)  | A rating on their hotness, out of 10. I can be shallow too!                                                                                                     |
 | Notes                        | Text            | Anything else I felt compelled to comment on.                                                                                                                           |
 
+<br>
+
 Early on I collected more information from profiles (sexuality, religion, politics, etc.) but I stopped as I realised I didn't really care how many atheists liked me.
 
 # What did I find in my data?
@@ -85,7 +87,6 @@ Early on I collected more information from profiles (sexuality, religion, politi
 
 | What?                            | Data summary                                                                                                                                                                                                                                                                           |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                        |                                                                                                                                                                                                                                                                                |
 | Number of interactions (samples / unique people) | 160                                                                                                                                                                                                                                                                            |
 | Roses received                         | 12                                                                                                                                                                                                                                                                             |
 | Number of people I matched with        | 10                                                                                                                                                                                                                                                                             |
@@ -116,6 +117,8 @@ Looking at the raw numbers, we see a pattern of what parts of my profile got the
 | Photo: Clown                  | 4                   | 2                              |
 | Prompt: Opening Band          | 3                   | 2                              |
 | Other (bad data collection)   | 2                   | ?                              |
+
+<br>
 
 Anecdotally speaking, I noticed that: 
 * The lowest quality profiles AND replies correlated with liking my full body gothic photo. 
@@ -188,8 +191,10 @@ This triggered some of the strongest responses. I've copied almost all of them h
 | That's super cool! Why do you track that specifically? Is there anything else that you track in a similar way?                                                                                                                                     |
 | That is the best thing I've heard on here! Does it just track which makeup you use or do you also track how much you use                                                                                                                           |
 | Ok the database is up there, I don't think I've ever heard of that before.                                                                                                                                                                         |
+<br>
 
-Special mention for replies I really didn't like: 
+Special mention for replies I really didn't like:<br> 
+
 | Response samples: bad                          |
 | ---------------------------------------------- |
 | Finally someone who can keep up with my autism |
@@ -216,20 +221,21 @@ In the "Notes" section I captured my unfiltered thoughts. As I worked out what t
 Not everyone fills this in and some people fill it with such garbage data that it may as well be empty. Special mention to "Game Master Escape Room" for the coolest entry on the list. I tried to sort people into broader buckets.
 
 There was a bit of overlap with creative/tech jobs, so I've made some executive decisions (web designer, VFX...). I've included some sample job titles in the data for reference too. 
-| Item                        | Examples                                                             | Number |
-| --------------------------- | -------------------------------------------------------------------- | ------ |
-| Creative                    | Designers<br>Performers<br>3D Character Artist                           | 29     |
-| Warehousing / Trades        | Carpenters<br>Forklift operator(10)<br>Warehousing<br>Sparky<br>Mechanic (3) | 25     |
-| Tech                        | Data analyst<br>IT<br>Programmer<br>QA<br>Web Dev                            | 20     |
-| Hospitality                 | Fast food<br>Chef<br>Pokies<br>Barista                                    | 9      |
-| Medical                     | Doctor<br>Physio<br>Nurse                                                | 8      |
-| Engineer                    |                          | 5      |
-| Customer Service and Retail |                                        | 7      |
-| Teacher                     |                                                                      | 4      |
-| Finance                     |                                                                      | 3      |
-| Social services             | Disability support                                                   | 3      |
-| Law/Legal                   |                                                                      | 2      |
-| Studying                    | PhD                                                                  | 2      |
+
+| Item                        | Examples                                                               | Number |
+|-----------------------------|------------------------------------------------------------------------|-------:|
+| Creative                    | Designers<br>Performers<br>3D Character Artist                         | 29 |
+| Warehousing / Trades        | Carpenters<br>Forklift operator (10)<br>Warehousing<br>Sparky<br>Mechanic (3) | 25 |
+| Tech                        | Data analyst<br>IT<br>Programmer<br>QA<br>Web Dev                      | 20 |
+| Hospitality                 | Fast food<br>Chef<br>Pokies<br>Barista                                 | 9 |
+| Medical                     | Doctor<br>Physio<br>Nurse                                              | 8 |
+| Customer Service and Retail |                                                                        | 7 |
+| Engineer                    |                                                                        | 5 |
+| Teacher                     |                                                                        | 4 |
+| Finance                     |                                                                        | 3 |
+| Social services             | Disability support                                                     | 3 |
+| Law / Legal                 |                                                                        | 2 |
+| Studying                    | PhD                                                                    | 2 |
 
 Hi there forklifters <.< 
 
@@ -249,6 +255,8 @@ I thought it might be interesting for people to see who I went on dates with fro
 | 7               | 8       | 7.5     | Dated            |
 | 8               | 6       | 7       | Dated            |
 | 6               | 6       | 6       | Dated            |
+
+<br>
 
 I tended to match with people who had actually said something interesting in response to me - it was probably the easiest filtering mechanism to use. Exceptions could have been made for people with very interesting profiles or who were extra cute - but that didn't appear in this data. 
 
@@ -277,13 +285,13 @@ Everyone seemed to appreciate the honesty even if they were a bit confused or...
 It was honestly weird to reduce people down to their data this way - but when you have 160 people attempting to talk you in a 2 day span, and your goal is actually going on dates with people face to face, there's a filter mechanism happening regardless.
 
 ## The dating highscore board
-|Emoji | # of dates   | Comments | 
-|---| -----------------------------------------------------------------------------------------------------------------------------|-----------|
-| Cartwheel | 1| Really lovely (clever, lots of cool hobbies, originally planned a second date) but I liked other people by the time we met. |
-| Skateboard | 2 | Very pretty and interesting to talk with, would have gone on more dates if they'd asked.                                        |
-| Laptop | 3 | Some compatibility issues came up but I had fun.                                                                               |
-| Duck | 5 | Very cute and sweet and extremely interesting. Someone is gonna fall so hard in love with 'em one day.                          |
-| Top Hat | 7 | Interesting. Funny. Gorgeous. 7 dates was not in the experimental plan.                                                           |
+| Emoji | # of Dates | Comments |
+|:-----:|-----------:|----------|
+| 🤸 | 1 | Really lovely (clever, lots of cool hobbies, originally planned a second date), but I liked other people by the time we met. |
+| 🛹 | 2 | Very pretty and interesting to talk with. Would have gone on more dates if they'd asked. |
+| 💻 | 3 | Some compatibility issues came up, but I had fun. |
+| 🦆 | 5 | Very cute and sweet and extremely interesting. Someone is going to fall so hard in love with them one day. |
+| 🎩 | 7 | Interesting. Funny. Gorgeous. Seven dates was not in the experimental plan. |
 
 # Information Sharing and Management (gossiping with friends)
 My friends were all extremely excited to hear about how things were going, but also found it challenging to keep up with who was who in the (Excel) zoo. 
