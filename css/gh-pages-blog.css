@@ -25,3 +25,15 @@
   font-size: larger;
   margin-bottom: 20px;
 }
+
+/* Basic table borders */
+.ghpb-post table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.ghpb-post th,
+.ghpb-post td {
+    border: 1px solid black;
+    padding: 6px 10px;
+}
