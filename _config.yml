@@ -283,6 +283,11 @@ social_links :
   follow_name : Me
   links :
     - link :
+      enabled : true
+      name : Instagram
+      font_awesome_icon : icon-instagram
+      url : https://www.instagram.com/mythosandcosmos/
+    - link :
       enabled : false
       name : Facebook
       font_awesome_icon : icon-facebook
